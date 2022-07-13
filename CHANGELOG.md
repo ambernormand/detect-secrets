@@ -5,6 +5,8 @@ Thanks to all our contributors, users, and the many people that make `detect-sec
 
 If you love `detect-secrets`, please star our project on GitHub to show your support! :star:
 
+
+
 <!--
 # A.B.C
 ##### MMM DDth, YYYY
